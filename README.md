@@ -78,7 +78,7 @@ NetSentry ingests scattered, disconnected police data — FIRs, call detail reco
 
 ![Presentation](https://img.shields.io/badge/WORKSTREAM-Docs_%2F_Presentation-f7b32b?style=flat-square) **Nabiya Banu** — Slide polish, talking points, backup video recording, research/references, Q&A prep
 
-> Two people (Sadiya, Nabiya) can work with lighter daily coding load if needed but are **critical path owners** of two things demos always underestimate: realistic data and a bulletproof pitch. Don't skip their tracks to "help with code" — a broken demo from bad data or a fumbled pitch loses more points than a missing feature.
+> Two people (Sadiya, Nabiya) can work with daily coding load if needed but are **critical path owners** of two things demos always underestimate: realistic data and a bulletproof pitch. Don't skip their tracks to "help with code" — a broken demo from bad data or a fumbled pitch loses more points than a missing feature.
 
 ---
 
